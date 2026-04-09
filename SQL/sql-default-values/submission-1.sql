@@ -1,9 +1,8 @@
 CREATE TABLE videos (
-    id INTEGER,
-    name TEXT DEFAULT 'Untitled',
-    is_published BOOLEAN DEFAULT 'false'
+  id INTEGER,
+  name TEXT DEFAULT 'Untitled',
+  is_published BOOLEAN DEFAULT 'false'
 );
-
 
 
 
