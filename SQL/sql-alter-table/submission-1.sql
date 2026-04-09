@@ -17,8 +17,6 @@ ALTER TABLE books DROP COLUMN author;
 
 
 
-
-
 -- Do not modify below this line --
 SELECT column_name, data_type, column_default
 FROM information_schema.columns
